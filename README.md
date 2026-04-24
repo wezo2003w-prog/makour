@@ -32,3 +32,19 @@ collections:
       - { label: "اسم المنتج", name: "title", widget: "string" }
       - { label: "الصورة", name: "image", widget: "image" }
       - { label: "الوصف", name: "body", widget: "markdown" }
+      - <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body></body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body></body>
+</html>
